@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sesa407973/Desktop/Bits/SEM3/MLOps/Assignment-1/MLOpsPipeline/testing_mlflow_artifacts/f78ec2ce863546f4881c861d7cc3f33a/artifacts
+end_time: 1722598744783
+entry_point_name: ''
+experiment_id: '385460147425525610'
+lifecycle_stage: active
+run_id: f78ec2ce863546f4881c861d7cc3f33a
+run_name: MLops_Experiment
+run_uuid: f78ec2ce863546f4881c861d7cc3f33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722598741103
+status: 3
+tags: []
+user_id: SESA407973
